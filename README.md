@@ -130,7 +130,7 @@ Conversion Rate = Conversions / Clicks
 
 ## Dashboard Preview
 
-(Add Screenshot Here)
+![Dashboard](Dashboard.png)
 
 ---
 
